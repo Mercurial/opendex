@@ -6,7 +6,7 @@ namespace LibOpenDexDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            LibOpenDex.Pokedex.Test();
         }
     }
 }
